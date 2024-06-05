@@ -91,9 +91,9 @@
                             <div class="footer-right">
                                 <div class="block block-social">
                                     <ul class="social-link">
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="https://x.com/CIL_lighting?t=CW4aCB_4sXSLySkjw_TjNw&s=09" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="https://www.instagram.com/creativeinnovationsltd?igsh=MW9sNXA0N3R4dThhaw==" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                                        <li><a href="https://www.facebook.com/creativeinnovationsltd?mibextid=ZbWKwL" target="_blank"><i class="fa fa-facebook"></i></a></li>
                                     </ul>
                                 </div>
                             </div>

@@ -1,7 +1,4 @@
-
-
 @extends('main_layout.main')
-
 
 @section('content')
 
@@ -89,7 +86,7 @@
                                                         <div class="banner-wrapper banners">
                                                             <div class="banner-image">
                                                                 <a href="#">
-                                                                    <img style="width: 571px; height: 622px" width="571" height="622" src="{{asset('media/home_categories/Website-Categories-Images---Decorative-Lighting.png')}}" alt="Banner Image">
+                                                                    <img style="width: 571px; height: 622px" width="571" height="622" src="{{asset('assets/img/home_categories/lighting.jpeg')}}" alt="Banner Image">
                                                                 </a>
                                                             </div>
                                                             <div class="banner-wrapper-infor">
@@ -118,7 +115,7 @@
                                                                             <div class="banner-wrapper banners">
                                                                                 <div class="banner-image">
                                                                                     <a href="#">
-                                                                                        <img style="width: 406px; height: 304px" width="406" height="304" src="{{asset('media/home_categories/Website-Categories-Images---Outdoor-&-Commercial-Lighting.png')}}" alt="Banner Image">
+                                                                                        <img style="width: 406px; height: 304px" width="406" height="304" src="{{asset('assets/img/home_categories/outdoor.jpeg')}}" alt="Banner Image">
                                                                                     </a>
                                                                                 </div>
                                                                                 <div class="banner-wrapper-infor">
@@ -140,7 +137,7 @@
                                                                             <div class="banner-wrapper banners">
                                                                                 <div class="banner-image">
                                                                                     <a href="#">
-                                                                                        <img style="width: 406px; height: 304px" width="406" height="304" src="{{asset('media/home_categories/Website-Categories-Images---Projects.png')}}" alt="Banner Image">
+                                                                                        <img style="width: 406px; height: 304px" width="406" height="304" src="{{asset('assets/img/home_categories/project.jpeg')}}" alt="Banner Image">
                                                                                     </a>
                                                                                 </div>
                                                                                 <div class="banner-wrapper-infor">
@@ -168,7 +165,7 @@
                                                                             <div class="banner-wrapper banners">
                                                                                 <div class="banner-image">
                                                                                     <a href="#">
-                                                                                        <img style="width: 812px; height: 304px" width="406" height="304" src="{{asset('media/home_categories/Website-Categories-Images---Energy.png')}}" alt="Banner Image">
+                                                                                        <img style="width: 812px; height: 304px" width="406" height="304" src="{{asset('assets/img/home_categories/energy.jpeg')}}" alt="Banner Image">
                                                                                     </a>
                                                                                 </div>
                                                                                 <div class="banner-wrapper-infor">
