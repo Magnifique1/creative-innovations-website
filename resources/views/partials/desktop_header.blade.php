@@ -77,11 +77,11 @@
                                 <ul id="menu-main-menu" class="menu">
 
                                     <li class="level-0 menu-item">
-                                        <a href="#"><span class="menu-item-text" style="color: black; font-size: large">Home</span></a>
+                                        <a href="{{route('home')}}"><span class="menu-item-text" style="color: black; font-size: large">Home</span></a>
                                     </li>
 
                                     <li class="level-0 menu-item">
-                                        <a href="#"><span class="menu-item-text" style="color: black; font-size: large">About Us</span></a>
+                                        <a href="{{route('about_us')}}"><span class="menu-item-text" style="color: black; font-size: large">About Us</span></a>
                                     </li>
 
                                     <li class="level-0 menu-item">
@@ -105,7 +105,7 @@
                                     </li>
 
                                     <li class="level-0 menu-item">
-                                        <a href="#"><span class="menu-item-text" style="color: black; font-size: large">Contact</span></a>
+                                        <a href="{{route('contact_us')}}"><span class="menu-item-text" style="color: black; font-size: large">Contact</span></a>
                                     </li>
 
                                 </ul>

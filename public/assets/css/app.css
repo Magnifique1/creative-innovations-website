@@ -9689,7 +9689,7 @@ body i[class~=slick-arrow][class~=fa-angle-right] {
 }
 
 [class~=site-main] [class~=page-title] {
-    background-image: url("../../media/site-header.jpg");
+    /*background-image: url("../../media/site-header.jpg");*/
 }
 
 [class~=site-main] [class~=page-title] {

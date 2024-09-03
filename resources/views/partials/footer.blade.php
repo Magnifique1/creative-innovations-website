@@ -42,13 +42,13 @@
                                 <div class="block-content">
                                     <ul>
                                         <li>
-                                            <a href="#" style="font-family: 'Helvetica Neue',serif">Find A Branch</a>
+                                            <a href="{{route('contact_us')}}" style="font-family: 'Helvetica Neue',serif">Find A Branch</a>
                                         </li>
                                         <li>
                                             <a href="#" style="font-family: 'Helvetica Neue',serif">Sales & Offers</a>
                                         </li>
                                         <li>
-                                            <a href="#" style="font-family: 'Helvetica Neue',serif">Contact Us</a>
+                                            <a href="{{route('contact_us')}}" style="font-family: 'Helvetica Neue',serif">Contact Us</a>
                                         </li>
                                     </ul>
                                 </div>
